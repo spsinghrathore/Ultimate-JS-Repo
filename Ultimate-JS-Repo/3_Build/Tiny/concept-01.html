@@ -1,0 +1,48 @@
+<!-- concept-01.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Concept 01 — What is JavaScript?</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #1a1a1a;
+      color: #f5f5f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #ffb703;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    button:hover {
+      background-color: #fb8500;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>JavaScript Lives Here ⚡</h1>
+  <p id="message">Click the button to bring this page to life:</p>
+  <button onclick="bringToLife()">Activate Soul</button>
+
+  <script>
+    function bringToLife() {
+      const message = document.getElementById('message');
+      message.innerText = "🔥 You just used JavaScript! This page is now alive.";
+    }
+  </script>
+
+</body>
+</html>
