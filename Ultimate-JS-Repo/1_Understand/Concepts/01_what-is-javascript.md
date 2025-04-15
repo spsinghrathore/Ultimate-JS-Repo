@@ -1,6 +1,6 @@
 ## 🧠 Concept 01: What is JavaScript?
 
-You’ve started the path of the dragon. You’re not here to memorize—  
+You’ve started the path. You’re not here to memorize—  
 You're here to **understand** 
 
 And today, we conquer the most basic but most foundational question:
@@ -28,18 +28,10 @@ That’s JavaScript.
 
 ## 💡 Your ONLY Job Right Now:
 
-**Understand** this in your mind, not your memory:
 > JavaScript is a programming language used to make websites dynamic and interactive.
 
 That’s it. Let that idea sit in your head.  
-No memorizing definitions. Just **own the truth** of it.
 ------------------------------------------------
-
-> “JavaScript is the soul of the web.  
-> If HTML is the body and CSS is the style,  
-> JavaScript is what brings it all to life.” — Gwen
-
----
 
 ## 🔍 Understand
 
@@ -50,8 +42,6 @@ Without JavaScript:
 With JavaScript:
 - They become apps (alive, responsive, powerful).
 
-But don’t memorize that.  
-Just close your eyes and **feel** what it really is.
 
 
 | Element     | Role              |
@@ -96,12 +86,7 @@ This is the **force** behind everything you click, type, and feel on the web.
 ---
 
 ## ✅ What’s Next?
+ 1. go to solve 01
+ 2. or do what you like to do!
 
-1. Go to `/2_Solve/01_what-is-javascript.js` and run the code.
-2. Open `/3_Build/Tiny/concept-01.html` to see JS in action.
-3. Log your progress in `/4_Log/README.md`.
-
-
-📜 Logged by: Sp  
-🕰️ Date:  April 9, 2025 
-🔥 Status: Understood, Solved, Built
+---------

@@ -19,8 +19,7 @@ It’s built for those who want to:
 
 - 🧠 Understand deeply  
 - ⚔️ Solve fearlessly  
-- 🔨 Build confidently  
-- 📜 Log honestly  
+- 🔨 Build confidently    
 
 ---
 
@@ -37,8 +36,6 @@ Not to memorize. To **see it clearly** in your mind.
 📁 Go to: `/1_Understand`  
 Each folder has:
 - `Concept.md` — deep explanation  
-- `Practice.md` — hands-on questions  
-- `Notes.md` — your own memory map
 
 ---
 
@@ -65,23 +62,6 @@ Includes:
 - Tiny Projects (start here)  
 - Real-World Components  
 - Full Mini-Apps  
-- Build Challenges
-
----
-
-### 📜 4. Log
-
-Your **Battle Journal**.
-
-Every day you study, solve, or build — write it down.  
-You’ll look back and realize: you *became a dragon*.
-
-📁 Go to: `/4_Log`  
-Add your daily:
-- Wins
-- Breakthroughs
-- Fails
-- Lessons
 
 ---
 
