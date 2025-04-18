@@ -51,7 +51,7 @@ It depends on **a decision**.
 
 ---
 
-## 🧙 Scene 2: The Blade of Choice – `if`, `else`, and `else if`
+## The Blade of Choice – `if`, `else`, and `else if`
 
 In the dojo of logic, there is one rule:
 
@@ -77,7 +77,7 @@ The moment it finds truth, it **stops**.
 
 ---
 
-## ⚖️ Scene 3: The Balance Test – Comparison Operators
+##  The Balance Test – Comparison Operators
 
 To decide, you must compare.
 
@@ -100,7 +100,7 @@ Do not use `==` unless you know its illusions (type coercion).
 
 ---
 
-## 🔀 Scene 4: The Multiple Gateways – `switch` Case
+##  The Multiple Gateways – `switch` Case
 
 Sometimes, you have many choices.
 
@@ -126,7 +126,7 @@ Only the right key opens the right path.
 
 ---
 
-## 🔁 Scene 5: The Path That Repeats – Loops (Sneak Peek)
+##  The Path That Repeats – Loops (Sneak Peek)
 
 There is one more twist in the flow...
 
@@ -161,18 +161,8 @@ You now command:
     - What type of warrior enters (based on rank)
     - If your energy is high enough to train
 
-Open your scrolls:
-
-- `/2_Solve/05_control-flow-logic.js`
-- `/3_Build/Essence/concept-05.html`
-
-Write a logic dojo of your own.
-
-Make your webpage respond based on values.
 
 ---
-
-## 📜 Final Scroll: Gwen’s Whisper
 
 > “Your blade is sharp.
 > 

@@ -5,7 +5,7 @@
 
 ---
 
-## 🌀 Scene 1: Enter the Looping Temple
+## Enter the Looping Temple
 
 In the heart of the temple, you see a scroll spinning in place — endlessly.
 
@@ -27,7 +27,7 @@ Instead, you write it once — and **let it repeat.**
 
 ---
 
-## 🔁 Scene 2: The 4 Great Circles of Looping
+## 🔁  The 4 Great Circles of Looping
 
 Here are the 4 sacred forms:
 
@@ -99,7 +99,7 @@ Simple, elegant — for walking through **collections** like arrays.
 
 ---
 
-## 🧙 Scene 3: Beware the Infinite Circle ⚠️
+##  Beware the Infinite Circle ⚠️
 
 A loop with no exit is like a warrior who never rests.
 
@@ -160,14 +160,7 @@ You now control:
 4. Use `break` to stop a loop early
 5. Use `continue` to skip every even number
 
-Scrolls to practice:
-
-- `/2_Solve/06_loops.js`
-- `/3_Build/Essence/concept-06.html`
-
 ---
-
-## 📜 Final Scroll: Gwen’s Message
 
 > “A samurai is forged in repetition.
 > 

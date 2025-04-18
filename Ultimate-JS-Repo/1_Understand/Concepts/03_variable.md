@@ -1,6 +1,9 @@
-# 🧙 **EPISODE 03 – THE MEMORY MONK: Variables**
+# 🧠 Concept 03: Variables?
 
 *“Before the strike, there is the stance. Before the roar, there is the breath.”*
+
+
+# 🧙 **EPISODE 02 – THE MEMORY MONK: Variables**
 
 ---
 
@@ -90,7 +93,7 @@ var z = "metal"; // ✅ Works, but risky in larger codebases
 
 ### 🔥 Next Episode Tease:
 
-## 🌀 EPISODE 04 – The Execution Chamber: Scope, Hoisting & the Call Stack
+## 🌀 EPISODE 03 – The Execution Chamber: Scope, Hoisting & the Call Stack
 
 *"Not all power is visible. But every move has a place in the flow."*
 
