@@ -1,4 +1,5 @@
 ﻿
+![Intro](../../assets/images/intro.jpeg);
 ## 🛤️ The Flow of Mastery:
 **One concept. Three steps. Total understanding.**
 
