@@ -1,5 +1,5 @@
 ﻿
-![Intro](Ultimate-JS-Repo\assets\images\intro.jpg);
+![Intro](Ultimate-JS-Repo\assets\images\intro.jpg)
 ## 🛤️ The Flow of Mastery:
 **One concept. Three steps. Total understanding.**
 
