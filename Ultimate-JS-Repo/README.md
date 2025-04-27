@@ -1,5 +1,5 @@
 ﻿
-![Intro](../assets/images/intro.jpg);
+![Intro](C:\Users\spsin\OneDrive\Desktop\Shaolin Js\Ultimate-JS-Repo\assets\images\intro.jpg);
 ## 🛤️ The Flow of Mastery:
 **One concept. Three steps. Total understanding.**
 
