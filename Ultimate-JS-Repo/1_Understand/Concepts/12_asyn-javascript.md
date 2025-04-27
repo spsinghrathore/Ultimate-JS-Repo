@@ -204,20 +204,4 @@ You now possess the art of **asynchronous mastery**:
 
 ---
 
-## 📜 Final Scroll
-
-🎴 This was **Episode 11 – The Art of Waiting**.
-
-You have learned how to **manage time** in the digital world — making your code **responsive** and **efficient**. The page no longer freezes when you need to wait. Instead, it flows **with purpose**.
-
----
-
-## 🔥 Next Scroll...
-
-### **EPISODE 12 – The Loop of Eternity: Mastering `for`, `while`, and beyond**
-
-*"One step repeated… becomes a journey."* 🌀
-
----
-
 || Hare Krishna ||
