@@ -65,19 +65,6 @@ console.log(b); // "Moon"
 Each variable holds its own copy.  
 No link. No memory sharing. **That’s the power of independence.**
 
----
-
-## 🔮 Master Insight: Use Case Patterns
-
-| Type      | When to Use |
-|-----------|-------------|
-| `string`  | Names, messages, logs, IDs |
-| `number`  | Scores, prices, measurements |
-| `boolean` | Conditions, switches, logic gates |
-| `undefined` | Unintended state or temp vars |
-| `null`    | Intentional absence (cleared data) |
-| `symbol`  | Hidden properties (advanced objects) |
-| `bigint`  | Scientific or crypto-level numbers |
 
 ---
 
